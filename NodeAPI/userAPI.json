@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name":"bibek kunwar",
+    "username":"bibek",
+    "email":"bibek123@gmail.com",
+    "address":{
+      "street": "nilopul",
+      "city": "kathmand",
+      "ZipCode":"12345"
+    },
+
+    "phone":"1234567890",
+    "website":"bibek.com",
+    "company":{
+      "cname": "bibek store",
+      "clocations":"ktm"
+    }
+
+  },
+
+
+  {
+    "id": 2,
+    "name":"Hira kunwar",
+    "username":"bibek",
+    "email":"bibek123@gmail.com",
+    "address":{
+      "street": "nilopul",
+      "city": "kathmand",
+      "ZipCode":"12345"
+    },
+
+    "phone":"1234567890",
+    "website":"bibek.com",
+    "company":{
+      "cname": "bibek store",
+      "clocations":"ktm"
+    }
+
+  },
+{
+    "id":3,
+    "name":"sani kunwar",
+    "username":"bibek",
+    "email":"bibek123@gmail.com",
+    "address":{
+      "street": "nilopul",
+      "city": "kathmand",
+      "ZipCode":"12345"
+    },
+
+    "phone":"1234567890",
+    "website":"bibek.com",
+    "company":{
+      "cname": "bibek store",
+      "clocations":"ktm"
+    }
+
+  },
+
+  {
+    "id": 4,
+    "name":"sanu kunwar",
+    "username":"bibek",
+    "email":"bibek123@gmail.com",
+    "address":{
+      "street": "nilopul",
+      "city": "kathmand",
+      "ZipCode":"12345"
+    },
+
+    "phone":"1234567890",
+    "website":"bibek.com",
+    "company":{
+      "cname": "bibek store",
+      "clocations":"ktm"
+    }
+
+  },
+
+  {
+    "id": 5,
+    "name":"shadoow kunwar",
+    "username":"bibek",
+    "email":"bibek123@gmail.com",
+    "address":{
+      "street": "nilopul",
+      "city": "kathmand",
+      "ZipCode":"12345"
+    },
+
+    "phone":"1234567890",
+    "website":"bibek.com",
+    "company":{
+      "cname": "bibek store",
+      "clocations":"ktm"
+    }
+
+  }
+
+]
